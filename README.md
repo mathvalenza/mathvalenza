@@ -1,7 +1,11 @@
 ### Hi there 😄
 
 
+<!---
 [![Matheus Valenza's github stats](https://github-readme-stats.vercel.app/api?username=mathvalenza)](https://github.com/mathvalenza)
+-->
+
+![](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
 <!--
 **mathvalenza/mathvalenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
